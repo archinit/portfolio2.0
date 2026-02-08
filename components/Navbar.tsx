@@ -3,7 +3,7 @@ export const Navbar = () => {
             <nav className="container mx-auto flex justify-between">
                 <div className="flex gap-3"> 
                     <a >Home</a >
-                    <a >Home</a >
+                    <a >Projects</a >
                     <a >Home</a >
                 </div>
                 <div className="flex">
