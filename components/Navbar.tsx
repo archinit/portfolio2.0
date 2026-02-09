@@ -4,7 +4,7 @@ export const Navbar = () => {
                 <div className="flex gap-3"> 
                     <a >Home</a >
                     <a >Projects</a >
-                    <a >Home</a >
+                    <a >About</a >
                 </div>
                 <div className="flex">
                     <button>dark</button>
