@@ -1,5 +1,5 @@
 export const Hero = () => {
     return <div>
-        Hero section
+        Hero section goes here      
     </div>
 }
