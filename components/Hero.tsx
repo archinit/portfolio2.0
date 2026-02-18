@@ -1,5 +1,5 @@
 export const Hero = () => {
     return <div>
-        Hero updated      
+        Hero updated here     
     </div>
 }
