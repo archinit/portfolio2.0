@@ -1,5 +1,5 @@
 export const Hero = () => {
-    return <div>
+    return <div className = "flex">
         Hero Section Updated    
     </div>
 }
