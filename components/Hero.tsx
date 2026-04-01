@@ -1,5 +1,5 @@
 export const Hero = () => {
-    return <div className = "flex items-center">
+    return <div className = "flex">
         Hero Section Updated    
     </div>
 }
